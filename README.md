@@ -2,15 +2,11 @@
 
 <div align="center">
 
-<img  src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="15%"/> 
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="15%"/>
 
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="15%"/> 
+<img src="https://media.giphy.com/media/SqZFDec4yTwXdwoaFY/giphy.gif" width="15%"/>
 
-<img src="https://media.giphy.com/media/SqZFDec4yTwXdwoaFY/giphy.gif" width="15%"/> 
-
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="15%"/> 
-
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="15%"/> 
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="15%"/>
 
 </div>
 
